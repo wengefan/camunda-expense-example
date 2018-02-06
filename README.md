@@ -1,12 +1,9 @@
-# Camunda Expense Example
+# Camunda Expense Example for MAVEN
 
 
-Run Camunda application with the Gradle command below (use `gradlew.bat` for Windows).
+Run Camunda application with Eclipse4.8 from Windows
 
+Start via Boot DashBoard
 
-```
-$ ./gradlew bootRun 
-```
-
-Once the application starts-up, access to [http://localhost:8080/](http://localhost:8080/).
+Once the application starts-up, access to [http://localhost:1598/](http://localhost:1598/).
 
